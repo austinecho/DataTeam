@@ -1,0 +1,47 @@
+Date: 1/26/2017
+=============================
+DE
+=============================
+
+Code Reviews and Consultations:
+
+Prakash: 
+Completed Data consultation for Clint Kushida
+Reviewed Thor changes and recommened couple more (very minor)
+Picked up couple new code reviews
+
+Kenton: 1) Dead End Code
+
+Austin: 2017.01.24_LTL_SaveAndSendWithExtraEmails, Warehouse incident, Data Quality
+
+Planned: 
+Prakash - Interview Bashir Siddiqui
+
+Unplanned / Distraction: 
+
+
+Other: 
+
+
+
+=============================	
+DBA
+=============================
+Corey: Review and continue documenting DB02 SQL jobs, Interview Jr. DB Engineer, QA1 environment support, EDI Deployment, SQL Jobs Meeting 
+Distraction: Data consultations:  Need help to fix Log file issues, Need help to fix Log file issues for EDI, QA4 transaction log (ended up being a false alarm), GP user locked out and password reset, GP request from Marilyn, Legacy STATS update 
+ 
+
+Ray: 		DB01 SQL Jobs Inventory/Create Spreadsheets for RS01,GP03,PRD-ClutchDB, PRD-GladesDB, DB03VFLEX02 (1 Hr)
+		Daily Checklist (15 minutes)
+Distractions:	Interview Bashir (30 Min), Team mtg (1.5 Hr), jobs Meeting (39 Min), CR CHG0032469 (15 min) 
+DevOps support: 
+QA support: 
+Ray:		QA4 Support (1Hr)
+		QA1 Support (1Hr)
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+
+
+

@@ -1,0 +1,25 @@
+DE - meeting 1/17/2017
+=============================
+
+Austin -> ultipro - initial analysis completed. Email sent to Scott Friesen for getting input files for additional reference data required, cost center id, location id....etc.....
+
+Prakash and Kenton 	- continue MP\Batmobile modified Views\nH sql statements	
+
+Prakash: reviewed technical documentation for SMC3 and will complete it with John Greene review.
+
+Interview : Jeff Murray (entire team) - Decision made to proceed with Nick as subsequent interview to figure out more technical items required for Junior DE.
+
+
+
+==
+DBA - 
+==
+Ray - works with Archway on getting their DELETE scripts in order. Found issues while running in dev int env.
+Corey - provided db stats updates to entire team, pointed out issues on async_network_io.
+EchoQuote - Corey will follow up with Liz on audit requirements for quotes in Archive db in roder to remove it off of SQL Server instance.
+Tested SMTP issues for IGNITE alert not sending out emails on every alert instance.
+
+
+--Jonna updated team on Scrum of Scrums and future expectations.
+--Also, updated code review page template ni Sharepoint.
+

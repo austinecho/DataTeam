@@ -1,0 +1,48 @@
+Date: 2/1/2017
+=============================
+DE
+=============================
+
+Code Reviews and Consultations:
+
+Prakash: 
+1) AP CIR Analysis tool - review existing SP logic,begin work on new SP
+2) Completed code review for Ottmar and picked up couple more
+Distraction: Kill M.Dardano query and notify team + dardano
+
+Kenton: 
+1) Dead End Code
+2) 2017.02.21_TLI.Finance_CarrierLoadOwnershipTable
+3) SQL Code Review request for Canadian carrier remit address postal code script (Deployed as CR)
+Distraction: Review Updates to Change Requests for 2017 Session 2 (Pat 30 Min) 
+
+Austin: Data Consultation - Customer Purge (Mira Im), Data Quality
+Unplanned: INC0207181 - Ultipro Subscription would not work
+
+Planned: 
+
+
+Unplanned / Distraction: 
+
+Other: 
+
+
+
+=============================	
+DBA
+=============================
+Corey:  Conceptual diagram/Document for SQL Job History, Monitoring, Analyze Echooptimizer database growth trends and forecast.
+Distractions: Provide steps to recreate reference table for Scott Warren in THELABORATORY, CHISQL01 out of space
+Ray: 	
+
+Distractions:
+Ray:	
+Corey: 
+DevOps support: 
+QA support: 
+Ray:		
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+

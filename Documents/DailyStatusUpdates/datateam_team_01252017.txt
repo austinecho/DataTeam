@@ -1,0 +1,45 @@
+Date: 1/25/2017
+=============================
+DE
+=============================
+
+Code Reviews and Consultations:
+Prakash: 
+1) Clint Kushida data consultation
+2) Review THOR's data consultation
+3) Batmobile - explain Tony/Stephane usage of SP with example as alternative to views
+4) CIR application - go through the excel file/SP on the laboratory server
+
+Kenton: 1) Dead End Code
+
+Austin: 2017.01.24_LTL_SaveAndSendWithExtraEmails - modifications requested
+
+Planned: 
+Austin: AvgDaysToReview report for 2/7 release, Data Quality
+
+Unplanned / Distraction: 
+
+
+Other: 
+
+
+
+=============================	
+DBA
+=============================
+Corey: Review and continue documenting DB02 SQL jobs, QA1 environment support
+Distraction: 
+Ray: Review and continue documenting DB01 SQL jobs, QA1 environment support
+DevOps support: 
+QA support: 
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+Ray:  	QA1 Replication issue, then Golden Prod issue(still building) – 5 hours
+	Audit Request – 1 hour)	
+	Emergency CR – ½ hour
+	Data Consultation to build SMC3 shell DB – Not a distraction, but it still took another hour.
+
+
+
+

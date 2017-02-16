@@ -1,0 +1,34 @@
+Date: 1/20/2017
+=============================
+DE
+=============================
+
+Code Reviews and Consultations:
+
+SMC3: Prakash and John Greene will review architecture today. Making changes to  reference type for load reference.
+Ultipro: on pause until Scott\Calvin provide more info.
+Prakash and Kenton 	- continue MP\Batmobile modified Views\nH sql statements. ISSUE: db server is down. Potential risk of not completing all code reviews. DevOps notifed.
+
+Kenton: - Scoping data removal (Interview Dan A.) 
+
+Austin: - follow up with Mira regarding code reivew.
+
+Distraction:
+Kenton - Archway/Siva updated a data dictionary which was incomplete. I relayed the required scope and helped them correct it.
+
+
+
+=============================	
+DBA
+=============================
+Today DBAs will meet with Liz to discuss EchoQuoteArchive options to remove it off of DB01VPRD.
+Corey: Dry run support, Met with Liz and Suri to discuss EchoQuoteArchive  
+Ray: Daily Monitoring (checklist), Prep for Archway Deletes, Job inventory
+DevOps support: N\A
+QA support: Corey is helping for 1/24/2017 deployment.
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+Ray: EchoQuote ReArch Discussion - 30 min
+        RateIQ Applog issue - 30 min
+Corey: Troubleshoot continuous Autogrowth Alerts from 3 databases.         

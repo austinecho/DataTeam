@@ -1,0 +1,35 @@
+Date: 1/23/2017
+=============================
+DE
+=============================
+
+Code Reviews and Consultations:
+Prakash: code review followups
+
+Kenton: code review followups, follow up on Dead-End Code effort.
+Add: RB-20170207 - Reporting-DB02.EchoOptimizer (planned scope for 20170207 - approved by Pat) 
+
+Austin: Mira Im consultation request -- completed and sent findings, report bugs, submitted modification request for Alex Ayerdi's code review, Data Quality carriers
+
+Prakash: Completed 3 code reviews, working on another for Alex Ayerdi
+Worked with John Greene on the SMC3 carrier project(triggers logic, code implementation etc.)
+
+Other: 
+Jonna: follow up with Tony R for Data Dictinary importance.
+Kenton: Document Tableau Server upgrade steps
+
+
+=============================	
+DBA
+=============================
+Corey: AutoGrowth issue (seems as false alarm), Discussed redirecting apps and possibly retiring AppLogs database from DB02 with Karl Statz, SQL Jobs (DB02)
+Ray: Sick Day
+DevOps support: 
+QA support: 
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+Distraction: Tableau upgrade - until scope\effort defined it is considered a distraction.
+
+

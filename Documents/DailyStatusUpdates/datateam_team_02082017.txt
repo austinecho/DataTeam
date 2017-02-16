@@ -1,0 +1,58 @@
+Date: 02/08/2017
+=============================
+DE (Data Engineers)
+=============================
+
+Code Reviews and Consultations:
+
+Prakash: 
+1) LKQFiltering (work with kevin to implement few initial changes)
+2) Complete Intermodal code review
+3) THOR meeting about direction to capture load changes
+4) APCIR report (modify code review, demo nick report, adjust sp and report based on nick's feedback)
+5) Discuss trigger on tblcarrierloads with J.Greene for the SMC3 project
+
+Kenton: 
+1) Dead End Code (Prep for R1 - 50 objects and test script for QA (Luke H.))
+2) 2017.02.21_SMC3_StageShipments (Review response 1 - John and Erin)
+3) 2017.02.21_TLI.Finance_CarrierLoadOwnershipTable (Tanya followed up at 4PM with requested changes - Started) 
+Distraction:
+1) 2017.01.17_Batmobile_CarrierPortal (Approval complete - Data Dictionary provided and approved (Tony R.) 
+
+Austin: 
+1.) 2017.02.21_LTL_TrackAndTraceCreatedDate_2 for Alex Ayerdi, changed ModifiedDate to CreatedDate. Approved after a few modifications
+2.) INC0208871 - RFL and delete Tatyana Raytman incorrect class. CR submitted
+3.) Data Quality (1 load / case that required research but user was able to resolve with no data changes. Another load / case that required a data change)
+
+
+
+
+
+Unplanned: 
+
+Planned: 
+
+
+Unplanned / Distraction: 
+
+Other: 
+
+
+
+=============================	
+DBA (Database Administrators)
+=============================
+Corey:  Revise replication scripts for Finance CarrierLoadOwnership
+Ray:     Baseline Metrics prep, Daily monitoring, CR execution
+
+Distractions:
+Ray:    CarrierPortal DB user questions (Tony Rodriguez)
+Corey: CarrierPortal DB user questions (Tony Rodriguez)
+DevOps support: 
+QA support: 
+Ray:		
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+

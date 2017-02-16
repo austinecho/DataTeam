@@ -1,0 +1,28 @@
+Date: 1/19/2017
+=============================
+DE
+=============================
+
+Code Reviews and Consultations:
+
+SMC3: Prakash and John Greene will review architecture today.
+Ultipro: on pause until Scott\Calvin provide more info.
+Prakash and Kenton 	- continue MP\Batmobile modified Views\nH sql statements. ISSUE: db server is down. Potential risk of not completing all code reviews. DevOps notifed.
+
+Austin: - Clean up reporting and V1 board (Didn't start)
+	- AcctCustomerInvoiceDailyReport_TMG didn't generate for 12/13/2016
+	- Code Review for Alex - 2016_01_24_LTL_QuoteStatusHistory_2 - should be completed today.
+	- Data Quality - estimate time?
+
+
+=============================	
+DBA
+=============================
+Corey: SQL Jobs Inventory (DB02), EchoQuoteArchive archival and resizing plan, monitoring, Carrier mastering (9 PM tonight) 
+Ray: Daily Checklist monitoring, SQL Jobs inventory, Archway Delete planning and testing
+DevOps support: N\A
+QA support: N\A
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+Ray:  	Several meetings, JTeam discussion about backups this weekend

@@ -1,0 +1,54 @@
+Date: 02/03/2017
+=============================
+DE
+=============================
+
+Code Reviews and Consultations:
+
+Prakash: 
+1) Finshed SP for the APCIRAnalysis report, started work on the report design and will be done my Monday.
+2) Work with John Greene on SMC3 to make changes to triggers logic, SQL job archival of data etc.
+
+Kenton: 
+1) Dead End Code
+2) Batmobile Security Issues QA1 (Transfer task to DBAs support when scripting issues are resolved) 
+Distraction: 
+
+Austin: 
+1.) Finish Ulitpro - INC0207181
+2.) Mira Im Data Consultation (have list of columns and tables, removing invalid columns and tables from list then sending results)
+	Did not complete today, created scriprt to find FKs of tblCustomer and then finds the FKs of found tables until it finds all.
+	Also, it will take more manual work to make sure we aren't left with orphan data that doesn't use FKs. Example, tblCustomerCosts has a CustomerGUID and tblCustomerCostLineItems has a CustomerCostID field that references that table.
+3.) Data Quality
+4.) Support reports in QA2
+5.) Incident INC0206192 - Kaman 364 Branch
+
+
+Unplanned: 
+
+Planned: 
+
+
+Unplanned / Distraction: 
+
+Other: 
+
+
+
+=============================	
+DBA
+=============================
+Corey:  Production Monitoring, Document Echooptimizer Database growth trends
+Ray: 	
+
+Distractions:
+Ray:	
+Corey: Killed the Perform Statistics Maintenance job after 10 hours, Echo EDI Billing Status issues (Rob Vaughan, Naresh)
+DevOps support: 
+QA support: 
+Ray:		
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+

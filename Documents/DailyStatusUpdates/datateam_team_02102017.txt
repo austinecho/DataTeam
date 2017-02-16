@@ -1,0 +1,53 @@
+Date: 02102017
+=============================
+DE (Data Engineers)
+=============================
+
+Code Reviews and Consultations:
+
+Prakash: 
+1) THOR SQL job discussion
+2) APCIR report (send luke test plans, update release bundles, notes etc.)
+3) LKQFiltering- complete data dictionary review
+4) SMC3 - review rollback script
+
+Kenton: (WFH) 
+1) Dead End Code (Prep for R1 - 15 of 50 objects and test script)
+2) 2017.02.21_SMC3_StageShipments (Complete - .25)
+3) 2017.02.21_DataTeam_APCIRReport (Complete - .25) 
+Distraction:
+
+Austin: 
+1.) INC0194565 - AR-Batch (Incorrect amount showing in report)
+2.) Data Quality
+
+
+
+Unplanned: 
+
+Planned: 
+
+
+Unplanned / Distraction: 
+
+Other: 
+
+
+
+=============================	
+DBA (Database Administrators)
+=============================
+Corey:  Production Issues: EDI Greenheck Invoicing
+Ray: 	
+
+Distractions:
+Ray:	
+Corey: 
+DevOps support: 
+QA support: 
+Ray:		
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+

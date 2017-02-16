@@ -1,0 +1,34 @@
+-------------------------------
+2-Week review - Take #2
+-------------------------------
+
+Below are discrepancies for last 2 weeks on all tasks\projects and planned\unplanned items.
+Main focus here is to recognize patterns where we could improve on our day-to-day activities
+and projects overall.
+
+
+Overall: better than last review. Focus is missing on % for project\task completion.
+
+
+
+-Projects: update % on completion of your involvement.
+-Estimations for tasks (code review, replication scripts, consultation requests)
+
+1/30/2017 
+DBAs - use this as a model for status
+
+2/7/2017
+DBAs - SQL Job Inventory meeting is not a distraction
+
+2/8/2017 -
+DBAs - too many distractions not to proceed on projects work?  
+	
+	
+
+Note to all: 
+If you are out, make sure you transfer all knowledge (tasks in flight, people involved)
+to your team member, send email to Jonna and CC Jasmin.
+Also, notify involved parties that you will be out and who will pick up the slack.
+
+
+

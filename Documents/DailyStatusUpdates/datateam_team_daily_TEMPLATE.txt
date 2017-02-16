@@ -1,0 +1,43 @@
+Date: >>>>>>>>>>>>INSERT DATE HERE<<<<<<<<<<<<
+=============================
+DE (Data Engineers)
+=============================
+
+Code Reviews and Consultations:
+
+Prakash: 
+
+Kenton: 
+
+
+Austin: 
+
+
+Unplanned: 
+
+Planned: 
+
+
+Unplanned / Distraction: 
+
+Other: 
+
+
+
+=============================	
+DBA (Database Administrators)
+=============================
+Corey:  
+Ray: 	
+
+Distractions:
+Ray:	
+Corey: 
+DevOps support: 
+QA support: 
+Ray:		
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+

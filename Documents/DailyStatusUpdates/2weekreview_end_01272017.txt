@@ -1,0 +1,42 @@
+-------------------------------
+2-Week review - Take #1
+-------------------------------
+
+Below are discrepancies for last 2 weeks on all tasks\projects and planned\unplanned items.
+Main focus here is to recognize patterns where we could improve on our day-to-day activities
+and projects overall.
+
+Conclusion: 
+		Improvement -> do not start on projects before its definition. Analyzing project before full understanding on priority and high level tasks is a no go.
+		Overall: Thumbs UP!! Most of the code reviews are handled properly and on time. Consultation requests are also being handled quickly.
+		Thank you Team!!
+
+
+Details:
+		
+
+
+1/17/2017 - 1/21/2017
+-Corey: EchoQuote archive project - started without high level tasks identified.
+
+1/19/2017
+Ray: unclear about tasks for backups "this" weekend. Hows this related to v1
+
+1/20/2017
+Kenton's distraction: as consequence we will send out data dictionary documentation location.
+Jonna to Archway team.
+
+1/23/2017
+rb approval Pat. Kenton
+
+1/24/2017 
+GP password - potential for adding to backlog to improve DBA responses.
+Jonna to follow up wiht BAs - Dardano to emphasize on imporance to provide any code reviews prior to deployment date.
+
+
+
+1/25/2017
+Prakash - emphasize of shorter involement on consultations that can become too long to solve.
+Contact Jonna to follow up with with their manager on internal team review of the request.
+
+DBAs - spent a lot of time supporting DevOps for Qa1. Need better process and script reviews for replications.

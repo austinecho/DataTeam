@@ -1,0 +1,64 @@
+Date: 02/13/2017
+=============================
+DE (Data Engineers)
+=============================
+
+Code Reviews and Consultations:
+
+Prakash: 
+1) SMC3 database bulk code review. Suggested initial changes, discussed with Erin and will review rest of objects once changes are in.
+2) THOR SQL job discussion with Shankar (approach, logic, tables to use, desgin discussion etc.)
+3) AP CIR report - reupload/testing on QA2
+4) THOR code review questions about a view (with Andy Kong) - I closed the consultation but technically, it is not as I forgot about this one view.
+
+
+Kenton: 
+1) Dead End Code (Prep for R1 - 30 of 46 objects and test script)
+2) Tableau Server Upgrade
+Distraction:
+1) SVN training (DataQuality/JB) .5h
+2) ODSStaging.ProcessLog scope DR meeting (JB).5h
+3) ODSStaging.tblLoadBoard (Corey/Pat) 1h
+
+Austin: 
+1.) INC0194565 - AR-Batch - Sent an email to Marilyn to confirm if one of the three problems is fixed.
+2.) Data Quality (plus Data Quality summary)
+3.) Confirmed INC0203316 and INC0208871 were resolved by CR
+Distraction:
+1.) Upload AP CIR RDL for QA2
+
+Unplanned: 
+
+Planned: 
+
+
+Unplanned / Distraction: 
+
+Other: 
+
+
+
+=============================	
+DBA (Database Administrators)
+=============================
+Corey:  
+Ray: 	
+Daily Monitoring- No major issues, 
+1) SQL Job Inventory - Updating Excel with IsEnabled and IsScheduled, Jobs meeting
+2) Executing CRs, one after hours
+3) ServiceNow/Version 1 -  Time entry
+
+Distractions:
+Ray:	
+Drive by with Brandon Gaty - Emergency CR info
+Corey: 
+DevOps support: 
+QA support: 
+Ray:	
+QA2 release support - running scripts
+	
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+

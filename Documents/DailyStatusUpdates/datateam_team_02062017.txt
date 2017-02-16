@@ -1,0 +1,52 @@
+Date: 2/6/2017
+=============================
+DE
+=============================
+
+Code Reviews and Consultations:
+
+Prakash: 
+1) 3 code reviews(finished THOR, picked up 3 more for next release)
+2) Finished rest of APCIR Analysis report. 
+3) Had 2 meetings for Batmobile(carrier invoice) and Thor(tbloads and other tables - tracking changes)
+
+Kenton:
+1) Dead End Code
+2) 2017.02.21_SMC3_StageShipments
+Distraction:
+1) 2017.02.03_Batmobile_DBUsers_Security (Script support / Document Development requirements) 
+2) 20170124_Batmobile_EchoOptimizer_Phase3 (Requested as urgent) 
+
+Austin: 
+1.) Data Consultation Customer Purge completed
+2.) Began INC0203316 - IS Daily Team Metrics
+3.) Data Quality 2 cases (1 load) needed a new city added.
+
+Unplanned: 
+
+Planned: 
+
+
+Unplanned / Distraction: 
+
+Other: 
+
+
+
+=============================	
+DBA
+=============================
+Corey:  EchoOptimizer growth projections, CHISQL01 setup monitoring, production monitoring
+Ray: 	Production Monitoring/Support - various inquiries; CRs/DCs;
+
+Distractions:
+Ray:	Meetings
+Corey: DBA checklist, DBA Checkpoint, Review Monthly Status Deck
+DevOps support: 
+QA support: 
+Ray:  QA1 Dryrun tasks 		
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+

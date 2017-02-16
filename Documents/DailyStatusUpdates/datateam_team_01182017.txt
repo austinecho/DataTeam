@@ -1,0 +1,48 @@
+Date: 1/18/2017
+=============================
+DE
+=============================
+
+Code Reviews and Consultations:
+
+Ultipro: Prakash and Austin had a meeting with Scott and set expectations on getting new reference files from Calvin and others. 
+All work is consdered on pause until this is received.
+
+Prakash and Kenton 	- continue MP\Batmobile modified Views\nH sql statements
+Prakash - will be deploying stats/index updates tonight with Nick, working with John Greene on the SMC3 implementation
+
+Austin: - Clean up reporting and V1 board (Didn't start)
+	- AcctCustomerInvoiceDailyReport_TMG didn't generate for 12/13/2016
+	- Code Review for Alex - 2016_01_24_LTL_QuoteStatusHistory_2
+	- Data Quality
+	
+
+=============================	
+DBA
+=============================
+Corey: handle echoquote trunk failures. 
+
+* In the process of preparing an EchoQuoteArchive document in preparation for my Friday meeting with Liz.  She asked a few questions in response to the meeting invite, so I want to make sure I cover everything for her ( current issues, growth trends, archive plans)
+* GP - Security issues in Command GP, requests from Marilyn, updating statistics on 63 tables in EGL database (will be performed after hours)
+* SQL Jobs Inventory - Started looking through a few SQL jobs on DB02 to determine its purpose. 
+
+
+
+Ray: out of office.
+DevOps support: N\A
+QA support: N\A
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+Jasmin and Jonna: met with Daniel (HR) -> Caide will most likely start on 3/13 due to complications for his last 2 week payout once he gives notice.
+I think this is OK due to fact he is expected to hit the ground running as Senior DE.
+
+Jonna: adjusted report for code reviews (High Level perspective)
+https://echogl.sharepoint.com/sites/EchoIT/teams/DataTeam/Lists/Code%20Reviews/All%20Tasks%20Monthly%20View.aspx
+
+Jonna and Jasmin: talked about potential issue with on call schedule and post core hours work. 
+Here I am emphasizing on DBA(s) slowly but surely taking more active and protective role for ANY prod deployments.
+We can talk\discuss more in our weekly meeting.
+
+

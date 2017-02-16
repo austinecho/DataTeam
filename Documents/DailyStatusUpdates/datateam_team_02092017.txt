@@ -1,0 +1,54 @@
+Date: 2/9/2017
+=============================
+DE (Data Engineers)
+=============================
+
+Code Reviews and Consultations:
+
+Prakash: 
+1) APCIR report - finish changes requested by Nick(dev and testing)
+2) LKQFiltering code review - completed full review and sent modifications to Kevin
+3) THOR questions about SQL job logic
+
+Kenton: 
+1) Dead End Code (Prep for R1 - 15 of 50 objects and test script)
+2) 2017.02.21_SMC3_StageShipments (Review response 4, complete - John and Erin)
+3) 2017.02.21_TLI.Finance_CarrierLoadOwnershipTable (Paused/Rescheduled) 
+4) 2017.02.21_DataTeam_APCIRReport (Comments added) 
+Distraction:
+1) FW: Carrier Load Ownership - Discuss Timelines & Relevant Details (Rizwan .5 h expected)
+
+Austin: 1.) Data Quality
+	2.) INC0202157 - Amy Simmons - Track And Trace Detail shows double totals
+
+Distraction: AE contacted me about DQ case I marked as resolved, said it wasn't showing up in Clutch. Suggested he should resave the load and that fixed it.
+
+
+Unplanned: 
+
+Planned: 
+
+
+Unplanned / Distraction: 
+
+Other: 
+
+
+
+=============================	
+DBA (Database Administrators)
+=============================
+Corey:  
+Ray: 	Daily monitoring, EDI Data issue with Greenheck (analysis), EDI Release HF-20170209
+
+Distractions:
+Ray:	Time Entry for the week, Baseline Metrics presentation to team
+Corey: 
+DevOps support: 
+QA support: 
+Ray:		
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+

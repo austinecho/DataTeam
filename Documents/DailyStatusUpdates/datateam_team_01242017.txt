@@ -1,0 +1,46 @@
+Date: 1/24/2017
+=============================
+DE
+=============================
+
+Code Reviews and Consultations:
+Prakash: 
+1) Finish code review for Alex
+2) Started work on consultation for Clint Kushida
+3) SMC3 project - discuss with J Greene SQL job, investigate errors on their int box related to trigger(will be fixed tomorrow)
+4) Batmobile consultation - view on tbloadacitvitylog change from view to SP(guide and provide directions to implement the SP)
+
+Kenton: 
+1) Project: Dead End Code 
+2) Data Consultation - Batmobile (Echo Drive) - Delay showing correct [dbo].[tblLoads].Status
+Distraction: 
+1) Check the Ultipro import log for last valid file. Forward details to DBA for support. 
+
+Austin: 
+Planned: INC0122897 -- Avg Days to Review report enhancement.
+	Data Quality
+Unplanned / Distraction: INC0206012 -- Subscription issue
+	   INC0184583 -- User not showing in EchoIQ
+	   Question about where report pulls data from (5 minutes)
+
+Other: 
+
+
+
+=============================	
+DBA
+=============================
+Corey: Monitoring, Review and continue documenting DB02 SQL jobs, Support EDI release at 4 pm, Support IT Release at 9 PM
+Distraction:
+1. GP Password Reset
+2. Mike Dardano - review a TenderType update script that'll be included in 1/24 deployment.  Execute in QA4.
+Ray: 
+DevOps support: 
+QA support: Intermittent request from DevOps to support QA1 environment (Corey, Ray) 
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+
+
+

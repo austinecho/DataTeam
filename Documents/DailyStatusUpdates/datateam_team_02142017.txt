@@ -1,0 +1,61 @@
+Date: 02142017
+=============================
+DE (Data Engineers)
+=============================
+
+Code Reviews and Consultations:
+
+Prakash: 
+1) Finish THOR consultation
+2) Work on SMC3 bulk database review (had discussion on db design)
+3) LKQFiltering code review discussions with kevin
+
+Kenton: 
+1) Dead End Code (Prep for R1 - 40 of 46 objects and test script) 1.5
+2) Tableau Server Upgrade 4
+Distraction:
+1) Team Meeting Red Flag .5
+2) Team Meeting CLB 1
+3) ODSStaging.tblLoadBoard (Corey/Pat) 1h
+
+Austin: 
+1.) INC0194565 - AR-Batch for Marilyn, she confirmed the frist fix I found worked, noticed another issue. Sent her what I think resolved issue, waiting for feedback.
+2.) Data Quality
+3.) Data Consultation for Luke Hill - QA1 Reporting, DevOps is currently addressing because reporting was never set up.
+
+
+
+Unplanned: 
+
+Planned: 
+
+
+Unplanned / Distraction: 
+
+Other: 
+
+
+
+=============================	
+DBA (Database Administrators)
+=============================
+Corey:  Great Plains new user, Great Plains concur troubleshooting, monitoring DB01 and DB02, User STysk having trouble with GP security
+Ray: 	
+Daily monitoring - Checklist
+EDI Release 9pm
+Data Consultation -  Estimate Storage for EchoOptimizerImages
+RC - CHE0032478 - Fix EchoQuote Arechive - Took 2 1/2 hours to execute 
+2 CRs, 1/2 hour
+Team Meeting 1/2 hour
+Distractions:
+Ray:	
+TheLaboratory Issue, Did it run overnight ? (Yes it did) - 1/2 hour
+Corey: 
+DevOps support: 
+QA support: 
+Ray:		
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+

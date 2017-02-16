@@ -1,0 +1,71 @@
+Date: 02152017
+=============================
+DE (Data Engineers)
+=============================
+
+Code Reviews and Consultations:
+
+Prakash: 
+1) LKQFiltering review complete, picked up finance review
+2) SMC3 code review data dictionary changes(awaiting from Erin)
+
+Distractions:
+1) Alex Samoylov questions about FK, error logs storing in DB(I said use NoSQL, ELK stack)
+2) Ankit questions about SSBS
+
+Kenton: 
+1) Dead End Code (R1 Dev complete, Bulk Code Review added, DEV test passed, QA Luke H. notified)
+2) QA Tableau Server Upgrade (Copy backup DNS issues) 
+3) 2017.03.07_TLI.Finance_CarrierLoadOwnershipTable - Bounced and Optymyze dependencies new (Tanya/Kevin & Tom/Rizwan)
+
+Distraction:
+1) QA1 support EchoIQ not working (Batmobile blocker) Requested by Greg S. / CDS 
+2) ITFinance scope questions for Optymyze (PT, Zack and Tom scope details: Tom to add TPP for next question)
+3) Team Meetings Prakash & Austin (New team member approach) 
+
+
+Austin: 
+1.) INC0194565 - AR-Batch - Sent Marilyn five test reports, she found a different issue, looking into it.
+2.) Data Quality
+3.) 2017.02.23_DT_DeadEndCode_R1 - Just started
+
+Unplanned:
+INC0210605 - TNT Detail Lindsey Boden. Loads weren't pulling back for a customer. Resolved.
+
+
+
+Unplanned: 
+
+Planned: 
+
+
+Unplanned / Distraction: 
+
+Other: 
+
+
+
+=============================	
+DBA (Database Administrators)
+=============================
+Corey:  
+Ray: 
+1) Daily checklist monitoring .5
+2) Emergency CR chg0032538
+3) DC - Estimate EOImage table space for SMarks .5
+4) DBA Turnover - 2
+	
+
+Distractions:
+Ray:	
+1) Timekeeping/Version 1
+2) Working on DBA Job Description 1
+Corey: 
+DevOps support: 
+QA support: 
+Ray:		
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+

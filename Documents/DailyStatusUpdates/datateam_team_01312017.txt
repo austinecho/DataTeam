@@ -1,0 +1,47 @@
+Date: 1/31/2017
+=============================
+DE
+=============================
+
+Code Reviews and Consultations:
+
+Prakash: 
+Timesheet, HP SDM and AP CIR Analysis meetings
+
+
+Kenton: 
+1) Dead End Code
+2) 2017.02.21_TLI.Finance_CarrierLoadOwnershipTable (Tor)
+Distraction: Time Sheet (IT) 
+
+Austin: Data Quality
+Distraction: Time sheet
+Unplanned: 
+
+Planned: 
+
+
+Unplanned / Distraction: 
+
+Other: 
+
+
+
+=============================	
+DBA
+=============================
+Corey:  Timesheet, EDI Deployment, DB Monitoring
+Distractions: Scott Warren Laboratory questions, GP user support
+Ray: 	
+
+Distractions: 
+Ray:	
+Corey: 
+DevOps support: 
+QA support: 
+Ray:		
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+

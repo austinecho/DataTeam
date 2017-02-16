@@ -1,0 +1,58 @@
+Date: 02/02/2017
+=============================
+DE
+=============================
+
+Code Reviews and Consultations:
+
+Prakash: 
+1) 2 code reviews (intermodal and SWAT)
+2) Continue dev on AP CIR Analysis SP and report
+Distraction: Worked on EDI prod issue with Naresh
+
+Kenton: 
+1) Dead End Code
+2) 2017.02.21_TLI.Finance_CarrierLoadOwnershipTable
+Distraction:
+Production Issue (Emergency?) - Tableau Server Outage Analysis - Support JTeam/knowledge transfer. 
+Batmobile Security Gap 1H - QA hold up. 
+
+Austin:
+1.) Ultipro Subscription (took longer than expected)
+2.) Data Consultation - Mira Im (Discovered more columns than I did the first time (E#, AccountID)
+3.) Data Quality
+Distraction:
+Ad Hoc request from Lindsey Boden, told her a help ticket needs to be submitted in the future. (Ref#, BOL#, invoice amount for specifc customers and date range)
+
+
+Unplanned: 
+
+Planned: 
+
+
+Unplanned / Distraction: 
+
+Other: 
+
+
+
+=============================	
+DBA
+=============================
+Corey:  
+1. EDI production issues & Emergency CR
+2. EDI Deployment
+
+Ray: 	
+
+Distractions: 
+Ray:	
+Corey: Batmobile security questions (Dan & Team)
+DevOps support: 
+QA support: 
+Ray:		
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+

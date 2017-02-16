@@ -1,0 +1,43 @@
+Date: 1/30/2017
+=============================
+DE
+=============================
+
+Code Reviews and Consultations:
+
+Prakash: 
+
+Kenton: Dead End Code
+Distraction: Shipping Label / Barcode Current State - Knowledge transfer (Clint Kushida, Brandon Gaty) (30 Min Meeting / 1 Hour documentation - Consultation) 1.5 hours
+
+Austin: Alex Ayerdi LTL Save and Send code review completed and approved. Data Quality, 2 cases needed to be changed 3 others needed research. 
+Unplanned: QA4 Report Server trouble shooting / QA4 Report support. RDLs would not upload to report server in QA4, turned out to be DevOps issue with firewall. Archway Team had some reports that did not match prod.
+
+Planned: 
+
+
+Unplanned / Distraction: 
+
+Other: 
+
+
+
+=============================	
+DBA
+=============================
+Corey:  Review EchoOptimizer and EDIStaging Data Files, SQL Jobs Design Meeting (1 hr), 4 CRs, Carrier Portal Database Discussion w/ Tony 
+Ray: 	Daily monitoring (30 min), Data Quality (30 min), SQLJobs Inventory-DB03VFLEX02, Design meeting (1.5 hr), CR chg0032485 (45 min)
+
+Distractions:
+Ray:	Chisql01 out of space (2 hrs), Time Entry (3 hrs)
+Corey: GP Support - Crystal Laseter needs to have the same GP Security as Nisreen Salman, QA4 Support
+DevOps support: 
+QA support: 
+Ray:		
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+DBAs: Meeting with Sarms to eliminate need to frequently fix failed OLD Command SQL Servers, db sizes mainly.
+
+

@@ -1,0 +1,54 @@
+Date: 02/07/2017
+=============================
+DE (Data Engineers)
+=============================
+
+Code Reviews and Consultations:
+
+Prakash: 
+1) EDI and Intermodal code reviews.
+2) Picked up and started working on bulk code review for Kevin Ye(LKQ Fitlering) - had a meeting with him to understand scope as there was no TPP.
+3) APCIR report - demo shelley, write up scope document, test report.
+
+
+Kenton: 
+1) Dead End Code
+2) 2017.02.21_SMC3_StageShipments
+3) 9PM deployment
+Distraction:
+1) 2017.02.03_Batmobile_DBUsers_Security (Complete) 
+
+
+Austin:
+1.) 2017.02.21_Finance_SendInvoiceFailureEmailsToEchoRep
+2.) INC0203316 - IS Daily Team Metrics (user is in tmp_SalesClass twice which is causing issues)
+3.) INC0208871 - RFL (semi distraction because user wouldn't provide in needed format)
+
+Unplanned: 
+
+Planned: 
+
+
+Unplanned / Distraction: 
+
+Other: 
+
+
+
+=============================	
+DBA (Database Administrators)
+=============================
+Corey:  Replication scripts for Finance CarrierLoadOwnership
+Ray: 	SQL Jobs Inventory, BaseLine Metrics Prep, Production Monitoring
+
+Distractions:
+Ray:	ChiSQL01 Space Issues (Continued), Meetings
+Corey: Tanya stopped by a few times, SQL Job Inventory meeting
+DevOps support: 
+QA support: 
+Ray:	Supply missing users for SMC3 	
+
+Past tense (actions\tasks taken that were not planned):
+----------------------------------------------------------
+
+

@@ -1,0 +1,19 @@
+DE - meeting 1/16/2016
+=============================
+
+Austin -> ultipro - analysis for input will be done by tomorrow. Touchbase with Prakash.
+
+Prakash and Kenton will split up MP code reviews
+And then rest of Batmobile code reviews
+
+SMC3 project support: John Greene - SSBS technical aspects for SMC3 project.
+
+Reqs: Need new project Kenton
+
+==
+DBA - meeting 1/16/2016
+==
+Ray - job failing issue - Follows up on failures.
+Corey - logs filling up on db01 and db02. Will follow up.
+EchoQuote - Trunk failures. will follow up with DevOps and development manager.
+
