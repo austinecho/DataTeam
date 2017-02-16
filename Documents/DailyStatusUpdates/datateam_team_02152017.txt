@@ -27,7 +27,7 @@ Distraction:
 Austin: 
 1.) INC0194565 - AR-Batch - Sent Marilyn five test reports, she found a different issue, looking into it.
 2.) Data Quality
-3.) 2017.02.23_DT_DeadEndCode_R1 - Just started
+3.) 2017.02.23_DT_DeadEndCode_R1 - Just started (1/4 complete)
 
 Unplanned:
 INC0210605 - TNT Detail Lindsey Boden. Loads weren't pulling back for a customer. Resolved.
